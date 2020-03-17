@@ -1,0 +1,32 @@
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.deps.json
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.runtimeconfig.json
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.runtimeconfig.dev.json
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.dll
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.pdb
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.csproj.CoreCompileInputs.cache
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.AssemblyInfoInputs.cache
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.AssemblyInfo.cs
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.dll
+D:\学习软件\vs2017\Visual Studio 2017\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.pdb
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.deps.json
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.runtimeconfig.json
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.runtimeconfig.dev.json
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.dll
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.pdb
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.csprojAssemblyReference.cache
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.csproj.CoreCompileInputs.cache
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.AssemblyInfoInputs.cache
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.AssemblyInfo.cs
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.dll
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.pdb
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.deps.json
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.runtimeconfig.json
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.runtimeconfig.dev.json
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.dll
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\bin\Debug\netcoreapp2.1\2_8.pdb
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.csprojAssemblyReference.cache
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.csproj.CoreCompileInputs.cache
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.AssemblyInfoInputs.cache
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.AssemblyInfo.cs
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.dll
+D:\学习软件\vs2017\Visual Studio 2017\Git仓库\hello_world\2_8\2_8\obj\Debug\netcoreapp2.1\2_8.pdb
